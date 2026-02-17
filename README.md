@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Sofyan ✨
 
-<!--
-**S0FYAN0/S0FYAN0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me 
+I'm an aspiring **System Adminstretor** and **Network Enthusiast**  
+- 🎓 Currently studying for **CCNA** certifications.
+- 🐍 Completed **CS50P** (Introduction to Programming with Python).
+- 💻 Passionate about **Linux** and open-source technologies.
+- 🏠 Built a custom home lab using Proxmox Server.
 
-Here are some ideas to get you started:
+## Skills & Tools 🛠 
+- **Operating Systems:** Linux (Ubuntu/Debian/RedHat), Windows Server.
+- **Networking:** Virtualization (Proxmox/Vmware), Cisco Configuration.
+- **Programming:** Python (Scripting & Automation).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## How to racch my 📨
+- [Linkedin](linkedin.com/in/sofyan-jarboua)
+  

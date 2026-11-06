@@ -13,5 +13,5 @@ I'm an aspiring **System Adminstretor** and **Network Enthusiast**
 - **Programming:** Python (Scripting & Automation).
 
 ## How to racch my 📨
-- [Linkedin](linkedin.com/in/sofyan-jarboua)
+- [Linkedin](https://linkedin.com/in/sofyan-jarboua)
   

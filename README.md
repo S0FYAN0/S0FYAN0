@@ -1,17 +1,18 @@
-# Hi there, I'm Sofyan ✨
+# Hi, I'm Sofyan 👋
 
-## About Me 
-I'm an aspiring **System Adminstretor** and **Network Enthusiast**  
-- 🎓 Currently studying for **CCNA** certifications.
-- 🐍 Completed **CS50P** (Introduction to Programming with Python).
-- 💻 Passionate about **Linux** and open-source technologies.
-- 🏠 Built a custom home lab using Proxmox Server.
+Junior **Network & Systems Administrator** from Saudi Arabia.
+Computer Networks Diploma (GPA 4.98/5) · Former Saudi Aramco IT intern · Preparing for the **Cisco CCNA**.
 
-## Skills & Tools 🛠 
-- **Operating Systems:** Linux (Ubuntu/Debian/RedHat), Windows Server.
-- **Networking:** Virtualization (Proxmox/Vmware), Cisco Configuration.
-- **Programming:** Python (Scripting & Automation).
+## Currently
+- 📚 Studying CCNA 200-301 with Jeremy's IT Lab
+- 🧪 Running a home lab with Proxmox, Ubuntu Server and Docker
+- 🐍 Writing Python scripts to automate repetitive tasks
 
-## How to racch my 📨
-- [Linkedin](https://linkedin.com/in/sofyan-jarboua)
-  
+## Skills
+- **Networking:** TCP/IP, OSI model, VLANs, DNS, DHCP, Cisco IOS (Packet Tracer)
+- **Systems:** Ubuntu Server, systemd, Windows Server basics
+- **Virtualization & containers:** Proxmox, VirtualBox, Docker
+- **Programming:** Python (Harvard CS50P)
+
+## Contact
+[LinkedIn](https://www.linkedin.com/in/sofyan-jarboua/) · [Portfolio](https://sofyan.online/en/)
